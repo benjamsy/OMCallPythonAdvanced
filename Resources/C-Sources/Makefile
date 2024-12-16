@@ -1,9 +1,9 @@
 
 # change these to suit your platform!
 
-PYTHON_INCLUDE_DIR=-I"C:\Users\*Username*\AppData\Local\Programs\Python\Python39\include"
+PYTHON_INCLUDE_DIR=-I"C:\Users\benjamins\AppData\Local\Programs\Python\Python39\include"
 
-PYTHON_LIBRARY_DIR=-L"C:\Users\*Username*\AppData\Local\Programs\Python\Python39"
+PYTHON_LIBRARY_DIR=-L"C:\Users\benjamins\AppData\Local\Programs\Python\Python39"
 
 
 PYTHON_LIBRARY=-lpython39
